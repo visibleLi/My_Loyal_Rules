@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,newapi.linuxdo.edu.rs
 DOMAIN-SUFFIX,api.2020111.xyz
 DOMAIN-SUFFIX,muyuan.do
 DOMAIN-SUFFIX,translate.gzcrtw.com
+DOMAIN-SUFFIX,ai.hybgzs.com
